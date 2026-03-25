@@ -1,4 +1,4 @@
-# Hi, I'm Nwanochiri Ogochukwu GloriaMary
+# Hi, I'm GloriaMary
 
 Fullstack Software Engineer who loves turning ideas into real, working products. I build everything from responsive frontends to robust backend systems and I care deeply about clean code and great user experiences.
 
@@ -12,11 +12,11 @@ Fullstack Software Engineer who loves turning ideas into real, working products.
 ## Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,c,html,css,react,nodejs,flask,bash,mysql,git,github,vscode,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,php,js,c,html,css,react,nodejs,flask,bash,mysql,git,github,vscode,figma&perline=8" />
 </p>
 
 **Frontend:** JavaScript, React.js, HTML5, CSS3
-**Backend:** Python, Flask, Node.js, REST APIs
+**Backend:** Python, PHP, Flask, Node.js, REST APIs
 **Database:** MySQL, SQLAlchemy
 **Systems:** C, Shell/Bash, Linux
 **Tools:** Git, GitHub, VS Code, Figma
