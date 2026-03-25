@@ -1,29 +1,46 @@
 # Hi, I'm Nwanochiri Ogochukwu GloriaMary
 
-Software Engineer with a passion for building intuitive digital experiences. I combine frontend development with design thinking to create products that are both functional and beautiful.
+Fullstack Software Engineer who loves turning ideas into real, working products. I build everything from responsive frontends to robust backend systems, and I care deeply about clean code and great user experiences.
 
 ## What I'm Working On
 
-- Building responsive web applications with **React.js** and modern JavaScript
+- Building fullstack web applications with **React.js** and **Python**
 - Creating user-centered designs that solve real problems
 - Pursuing my **BSc in Computer Science** at University of Kigali
 - ALX Africa Software Engineering graduate
 
 ## Tech Stack
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,js,c,html,css,react,nodejs,flask,bash,mysql,git,github,vscode,figma&perline=7" />
+</p>
+
 **Frontend:** JavaScript, React.js, HTML5, CSS3
-**Design:** UI/UX, Figma, Graphic Design
-**Tools:** Git, REST APIs, Responsive Design
+**Backend:** Python, Flask, Node.js, REST APIs
+**Database:** MySQL, SQLAlchemy
+**Systems:** C, Shell/Bash, Linux
+**Tools:** Git, GitHub, VS Code, Figma
+
+## GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryGloria01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryGloria01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## Featured Work
 
-- **E-commerce Platforms** — Full-stack web applications with payment integration
+- **AirBnB Clone** — Fullstack web app with Python backend and dynamic frontend
+- **E-commerce Platforms** — Complete web applications with payment integration
 - **E-learning Websites** — Educational platforms focused on user engagement
 - **Brand Identity Systems** — Logos, visual design, and complete brand packages
 
 ## Let's Connect
 
-I'm open to collaborations on web development projects, design work, and interesting technical challenges.
+I'm open to collaborations on fullstack projects, backend systems, and interesting technical challenges.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogochukwu-gloriamary)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/MaryGloria01)
