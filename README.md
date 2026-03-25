@@ -1,4 +1,4 @@
-# Hi, I'm GloriaMary
+# Hi, I'm Nwanochiri Ogochukwu GloriaMary
 
 Software Engineer with a passion for building intuitive digital experiences. I combine frontend development with design thinking to create products that are both functional and beautiful.
 
