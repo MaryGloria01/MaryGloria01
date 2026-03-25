@@ -1,6 +1,6 @@
 # Hi, I'm Nwanochiri Ogochukwu GloriaMary
 
-Fullstack Software Engineer who loves turning ideas into real, working products. I build everything from responsive frontends to robust backend systems, and I care deeply about clean code and great user experiences.
+Fullstack Software Engineer who loves turning ideas into real, working products. I build everything from responsive frontends to robust backend systems and I care deeply about clean code and great user experiences.
 
 ## What I'm Working On
 
