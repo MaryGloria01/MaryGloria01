@@ -6,7 +6,7 @@ Fullstack Software Engineer who loves turning ideas into real, working products.
 
 - Building fullstack web applications with **React.js** and **Python**
 - Creating user-centered designs that solve real problems
-- Pursuing my **BSc in Computer Science** at University of Kigali
+- Pursuing my **BSc (Hons) in Computer Science** at University of Kigali
 - ALX Africa Software Engineering graduate
 
 ## Tech Stack
