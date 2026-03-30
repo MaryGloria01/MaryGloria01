@@ -40,7 +40,7 @@ Fullstack Software Engineer who loves turning ideas into real, working products.
 
 ## Let's Connect
 
-I'm open to collaborations on fullstack projects, backend systems, and interesting technical challenges.
+I'm open to collaborations on fullstack projects, backend systems and interesting technical challenges.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogochukwu-gloriamary)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/MaryGloria01)
