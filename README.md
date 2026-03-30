@@ -36,7 +36,7 @@ Fullstack Software Engineer who loves turning ideas into real, working products.
 - **AirBnB Clone** — Fullstack web app with Python backend and dynamic frontend
 - **E-commerce Platforms** — Complete web applications with payment integration
 - **E-learning Websites** — Educational platforms focused on user engagement
-- **Brand Identity Systems** — Logos, visual design, and complete brand packages
+- **Brand Identity Systems** — Logos, visual design and complete brand packages
 
 ## Let's Connect
 
